@@ -20,4 +20,4 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 
-![fig]('nkust.jpg' "海底觀光")
+![fig](nkust.jpg "海底觀光")
